@@ -1,4 +1,0 @@
-[wokwi]
-version = 1
-firmware = 'build/BitDogLab-Timers-Clocks.uf2'
-elf = 'build/BitDogLab-Timers-Clocks.elf'

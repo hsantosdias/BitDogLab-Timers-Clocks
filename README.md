@@ -13,6 +13,15 @@ Este projeto demonstra o uso de **temporizadores periódicos e de um disparo (On
 - Impressão de mensagens na **porta serial** a cada **1 segundo**.
 - Simulação e testes com **LED RGB na ferramenta BitDogLab**.
 
+#### **Para maiores detalhes, testes, compilação e execução acesse o README da Atividade 1**
+
+[Readme detalhado da Atividade 1](https://github.com/hsantosdias/BitDogLab-Timers-Clocks/blob/main/README_ATIVIDADE_1.md "Readme detalhado da Atividade 1")
+
+#### **Repositorio da atividade 1**
+
+[Respositorio exclusivo da Atividade 1](https://github.com/hsantosdias/BitDogLab-Semaforo "Respositorio exclusivo da Atividade 1")
+
+
 ### ** Atividade 2: Temporizador One Shot (Acionamento via Botão) - BitDogLab-OneShot-Timer**
 
 - Utiliza a função **add_alarm_in_ms()** para acionar e desligar **três LEDs** de forma sequencial ao pressionar um botão (pushbutton).
@@ -21,6 +30,14 @@ Este projeto demonstra o uso de **temporizadores periódicos e de um disparo (On
 - Controle para evitar **reativação prematura** durante a execução da rotina.
 - Testado com **LED RGB e Botão A na BitDogLab**.
 - **(Opcional)**: Implementação de **debounce por software** para evitar leituras incorretas do botão.
+
+#### **Para maiores detalhes, testes, compilação e execução acesse o README da Atividade 2**
+
+[Readme detalhado da Atividade 2](https://github.com/hsantosdias/BitDogLab-Timers-Clocks/blob/main/REAMDE_ATIVIDADE_2.md "Readme detalhado da Atividade 2")
+
+#### **Repositorio da atividade 2**
+
+[Repositorio exclusivo da Atividade 2](https://github.com/hsantosdias/BitDogLab-OneShot-Timer "Repositorio exclusivo da Atividade 2")
 
 ## ** Tecnologias e Conceitos Utilizados**
 
@@ -34,10 +51,6 @@ Este projeto demonstra o uso de **temporizadores periódicos e de um disparo (On
 
 O código está estruturado e comentado para facilitar a compreensão e reutilização.
 
-## ** Demonstração**
-
-Vídeos exemplos do professor demonstram como deve ser o funcionamento dos projetos.
-
 
 ## ** Requisitos**
 
@@ -49,8 +62,17 @@ Vídeos exemplos do professor demonstram como deve ser o funcionamento dos proje
 
 ## ** Como Usar**
 
-Clone o repositório, selecione compile e faça o upload do código para a placa para testar as funcionalidades!
+Clone os repositórios, selecione compile e faça o upload do código para a placa para testar as funcionalidades!
+
+- Este repositorio contem os codigos fonte para as duas atividades solicitadas
 
 ```bash
 git clone https://github.com/seu-usuario/BitDogLab-Timers-Clocks.git
+
 ```
+
+**Podendo ser baixadas independentementes nos seguintes repositorios**
+
+[Respositorio exclusivo da Atividade 1](https://github.com/hsantosdias/BitDogLab-Semaforo "Respositorio exclusivo da Atividade 1")
+
+[Repositorio exclusivo da Atividade 2](https://github.com/hsantosdias/BitDogLab-OneShot-Timer "Repositorio exclusivo da Atividade 2")

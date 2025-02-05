@@ -49,7 +49,7 @@ Vídeos exemplos do professor demonstram como deve ser o funcionamento dos proje
 
 ## ** Como Usar**
 
-Clone o repositório, compile e faça o upload do código para a placa para testar as funcionalidades!
+Clone o repositório, selecione compile e faça o upload do código para a placa para testar as funcionalidades!
 
 ```bash
 git clone https://github.com/seu-usuario/BitDogLab-Timers-Clocks.git
